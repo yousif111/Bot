@@ -1,0 +1,8 @@
+invaildFormat:
+${currentExtension} - Returns the current file extension.
+
+errorFetching:
+${error} - Returns the error
+
+fileExtension:
+${fileExtension} - Will return the same file extension used in the input file.

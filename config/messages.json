@@ -1,0 +1,7 @@
+{
+  "noFile": "You didn't specify a file to be beautified.",
+  "invaildFormat": "The file you specified isn't an html/htm file. It's a ${currentExtension}",
+  "errorFetching": "There was an error with fetching the file: ${error}",
+  "outputFileName": "beautified.${fileExtension}",
+  "beautifiedReply": "Beautified!"
+}
